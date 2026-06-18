@@ -1,21 +1,115 @@
-# 💫 About Me:
-🔭 I’m currently working on Java, DSA, and web development projects | 👯 I’m looking to collaborate on beginner-friendly open-source and college projects | 💛 I’m looking for help with Data Structures, Algorithms, and backend development | 🌱 I’m currently learning Java, DSA, and full-stack web development | 💬 Ask me about Java basics, coding practice, and mini projects | ⚡ Fun fact: I enjoy debugging code late at night 😄
+<h1 align="center">Hi 👋, I'm Prince Kushwah</h1>
+<h3 align="center">B.Tech CSE Student | Java Developer | DSA Enthusiast | Full Stack Learner</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.prince_kush) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princekush/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Kushwahprince486@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=princettke&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=princettke&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=princettke&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=princettke&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Developer;DSA+Enthusiast;Full+Stack+Web+Developer;Always+Learning+New+Things" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=princettke&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+* 🎓 B.Tech CSE Student at GLA University
+* 🌱 Currently learning **Java, DSA & Full Stack Development**
+* 💻 Interested in **Backend Development & Open Source**
+* 🤝 Looking to collaborate on **Java and Web Development Projects**
+* 📫 Reach me at **[Kushwahprince486@gmail.com](mailto:Kushwahprince486@gmail.com)**
+* ⚡ Fun Fact: **I enjoy debugging code late at night 😄**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/princekush/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+<a href="https://instagram.com/_.prince_kush" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
+<a href="mailto:Kushwahprince486@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,nodejs,react,mongodb,git,github,vscode&perline=6" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+* 🎖️ Bluestock Fintech - Software Development Internship
+* 📚 Generative AI with Azure Course
+* 💡 Built Full Stack Web Development Projects
+* 🚀 Active Learner of DSA and Problem Solving
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=princettke&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=princettke&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princettke&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=princettke&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=princettke&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🏠 Real Estate Platform
+
+* Full Stack Property Listing Website
+* React + TypeScript + Tailwind CSS
+* Supabase Backend
+
+### 💻 Online Compiler
+
+* Multi-language Code Execution
+* Judge0 API Integration
+* React + Node.js
+
+### 👨‍💼 Portfolio Website
+
+* Personal Developer Portfolio
+* Responsive Design
+* Modern UI/UX
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=princettke&label=Profile+Views&color=blue&style=for-the-badge"/>
+</p>
+
+---
+
+<p align="center">
+⭐ From <a href="https://github.com/princettke">Prince Kushwah</a>
+</p>
